@@ -1,0 +1,19 @@
+.body{
+    background-color:salmon;
+}
+.heading{
+    background-color: mediumpurple;
+    color: #d39e00;
+    width: 100%;
+    height: 80px;
+    padding: 20px;
+}
+.buttons, .logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table,tr,th,td{
+    text-align: center;
+}
+
